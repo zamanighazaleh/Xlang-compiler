@@ -1,0 +1,19 @@
+void counter(int n) {
+	for (int i = 0; i < n; i += 1) {
+		boolean a = true;
+		if (i * i || false && a)
+			break;
+		else
+			continue;
+	} 
+}
+
+int main() {
+	callout counter(10);
+	int abs = 0x55EF, _9xg;
+	_9xg = 10 * abs / 8 % 2;
+	if (_9xg == 1 || _9xg <= 0x22)
+		"hello man :)) ";
+	// tnx for all.
+	return 0;
+}
