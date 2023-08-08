@@ -1,0 +1,28 @@
+class Program {
+ 
+	int a[100], b[0xff02], c;
+	
+	boolean func(int a1, int a2) {
+		return a1 == a2;
+	}
+	
+	void main() {
+		int b1, b2;
+		b1 = 2 + 3;
+		b2 = 7 * b1 / 2 % 3;
+		
+		callout("strcmp", "string 1", "string 2");
+		
+		if (c == b1 || b2 < (5 && !3)) {
+			func(b1, b2);
+		}
+		else {
+			for x = 1 , 10 {
+				c = 10 - 5;
+			}
+		}
+		
+		return 0;
+	}
+	
+}
